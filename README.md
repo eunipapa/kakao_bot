@@ -1,4 +1,4 @@
-# kakao_bot
-메신저봇R 네이버 날씨 데이타 가져오기
+# 메신저봇R에서 네이버 날씨 데이타 가져오기
+Jsoup을 이용해 메신저봇R에서 네이버 날씨 데이타를 가져와 파싱 후 카카오톡 오픈챗방으로 전송
 
-# function getWeatherFromNaver(param)
+
